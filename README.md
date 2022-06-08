@@ -4,6 +4,9 @@
 # mypkgrSchool
 
 <!-- badges: start -->
+
+[![Codecov test
+coverage](https://codecov.io/gh/robingenuer/mypkgrSchool/branch/master/graph/badge.svg)](https://app.codecov.io/gh/robingenuer/mypkgrSchool?branch=master)
 <!-- badges: end -->
 
 The goal of mypkgrSchool is to …
