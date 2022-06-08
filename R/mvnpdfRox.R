@@ -48,3 +48,10 @@ mvnpdf <- function(x, mean =  rep(0, nrow(x)),
   class(res) <- "mvnpdf"
   return(res)
 }
+
+
+# n <- 10e4
+# pdfval <- mvnpdf(x=matrix(1.96, nrow = 2, ncol = n), Log=FALSE)
+#
+# n <- 10e4
+# pdfval <- mvnpdfsmart(x=matrix(1.96, nrow = 2, ncol = n), Log=FALSE)
